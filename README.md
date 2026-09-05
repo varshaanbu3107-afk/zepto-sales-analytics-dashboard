@@ -1,6 +1,12 @@
 # 🛒 Zepto Sales & Operations Analytics Dashboard
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PivotTables](https://img.shields.io/badge/PivotTables-blue?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=flat-square)
+
 An interactive Excel dashboard analyzing sales performance, customer behavior, and delivery operations for a quick-commerce (Zepto-style) grocery business.
+
+Analyzed **1,500+ orders** across **200 products** and **300 customers**, generating **₹5.64L in total sales** with an **83.7% delivery success rate**.
 
 ![Zepto Sales & Operations Analytics Dashboard](./dashboard_screenshot.png)
 
@@ -60,8 +66,4 @@ Raw order-level transaction data (`RAW_DATA` sheet) including:
 ## 💡 Key Insights
 
 - **16.3% of orders fail to complete** — 7.6% Cancelled, 5.5% Failed, 3.2% Returned. Issue rates are consistent across all cities, pointing to a systemic operational issue rather than a local one.
-- **Payment risk**: Wallet has the highest failure rate (10.1%); Netbanking has the highest cancellation rate (13.4%).
-- **Recommendation**: Audit both payment flows (Wallet and Netbanking) to reduce friction and improve order completion.
-
----
-*Dataset: Simulated quick-commerce (Zepto-style) order and delivery data for BI/dashboarding practice.*
+- **Payment
