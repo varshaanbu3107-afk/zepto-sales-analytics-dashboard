@@ -66,4 +66,14 @@ Raw order-level transaction data (`RAW_DATA` sheet) including:
 ## 💡 Key Insights
 
 - **16.3% of orders fail to complete** — 7.6% Cancelled, 5.5% Failed, 3.2% Returned. Issue rates are consistent across all cities, pointing to a systemic operational issue rather than a local one.
-- **Payment
+- **Payment risk**: Wallet has the highest failure rate (10.1%); Netbanking has the highest cancellation rate (13.4%).
+- **Recommendation**: Audit both payment flows (Wallet and Netbanking) to reduce friction and improve order completion.
+
+---
+
+*Dataset: Simulated quick-commerce (Zepto-style) order and delivery data for BI/dashboarding practice.*
+
+## 👩‍💻 Author
+
+**Varsani A**
+B.Tech Information Technology
